@@ -5,5 +5,5 @@ Comparaison_beta_folder compare les 600ns sans phospho avec les 600ns de p-Ser28
 Comparaison_alpha_folder compare les 600ns sans phospho avec les 600ns de p-Ser293 et toutes p-Ser car ces dernières facilitent l'apparition d'hélice alpha au niveau des résidus C_terminaux (voir DSSP)
 
 
-Phosphoryler toutes les sérines augmentent également la densité des conformation étendues (Valeurs aux Rg élevés plus grandes que pour les autres courbes)
--> dues aux répulsions électrostatiques ?
+Phosphoryler toutes les sérines augmente également la densité des conformation étendues (Valeurs aux Rg élevés plus grandes que pour les autres courbes)
+-> dû aux répulsions électrostatiques ?
