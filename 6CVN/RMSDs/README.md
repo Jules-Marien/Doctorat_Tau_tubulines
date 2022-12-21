@@ -1,5 +1,9 @@
 Différents RMSDs du complexe
 
+
+
+
+
 Les colonnes s'organisent ainsi :
 
 Frame
@@ -21,6 +25,10 @@ RMSD of CTT B (beta chain, alignment on core B)
 RMSD of CTT C (beta chain, alignment on core C)
 
 RMSD of R2 (alignment on R2)
+
+
+
+
 
 
 
