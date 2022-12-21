@@ -1,0 +1,1 @@
+Energies électrostatiques par trajectoire
