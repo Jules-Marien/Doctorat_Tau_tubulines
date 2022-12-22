@@ -1,0 +1,19 @@
+Mean values of the total energy between R2 and tubulins
+
+alpha1/beta1 with R2
+model 17 = -1311.5714065
+model 22 = -1653.14531
+model 84 = -1467.5566794999997
+all 3 combined = -1477.4244653333333
+
+a1/b3 with R2
+model 16 = -1608.753375
+model 38 = -1854.553915
+model 65 = -1625.28704
+all 3 combined = -1696.19811
+
+no CTTs
+model 17 = -1085.9085504999998
+model 22 = -1259.4646120000002
+model 84 = -1366.1141415
+all 3 combined = -1237.1624346666665

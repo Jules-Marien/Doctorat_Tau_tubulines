@@ -1,0 +1,19 @@
+Mean values of the electrostatic energy between R2 and tubulins
+
+alpha1/beta1 with R2
+model 17 = -1230.03277
+model 22 = -1572.3808355
+model 84 = -1411.5732095
+all 3 combined = -1404.6622716666668
+
+a1/b3 with R2
+model 16 = -1537.908145
+model 38 = -1777.45974
+model 65 = -1561.9537849999997
+all 3 combined = -1625.77389
+
+no CTTs
+model 17 = -1025.6476145
+model 22 = -1187.41822
+model 84 = -1304.7366370000002
+all 3 combined = -1172.6008238333334
