@@ -7,23 +7,12 @@ Différents RMSDs du complexe
 Les colonnes s'organisent ainsi :
 
 Frame
-
-RMSD of the whole system (alignment on cores)
-
-RMSD of tubulin core A (alignement on tubulin core A)
-
-RMSD of tubulin core B (alignement on tubulin core B)
-
-RMSD of tubulin core C (alignement on tubulin core C)
-
+RMSD of the whole system (alignment on whole system)
 RMSD of all cores (alignement on cores)
-
-RMSD of CTT A (beta chain, alignment on core A)
-
-RMSD of CTT B (beta chain, alignment on core B)
-
-RMSD of CTT C (beta chain, alignment on core C)
-
+RMSD of CTT A (beta chain, alignment on CTT A)
+RMSD of CTT B (beta chain, alignment on CTT B)
+RMSD of CTT C (beta chain, alignment on CTT C)
+RMSD of all CTTs (alignment on all CTTs)
 RMSD of R2 (alignment on R2)
 
 
