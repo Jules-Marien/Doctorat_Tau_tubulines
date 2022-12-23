@@ -1,0 +1,19 @@
+Mean values of the Van der Waals energy between R2 and tubulins
+
+alpha1/beta1 with R2
+model 17 = -81.650429
+model 22 = -80.83317450000001
+model 84 = -56.2251805
+all 3 combined = -72.90292799999999
+
+a1/b3 with R2
+model 16 = -70.85914220000001
+model 38 = -77.0627654
+model 65 = -63.4390151
+all 3 combined = -70.4536409
+
+no CTTs
+model 17 = -60.3464227
+model 22 = -71.9811532
+model 84 = -61.2758086
+all 3 combined = -64.53446149999999
