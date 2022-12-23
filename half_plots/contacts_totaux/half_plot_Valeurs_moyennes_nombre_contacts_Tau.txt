@@ -1,0 +1,19 @@
+Mean values of total contact numbers between R2 and tubulins
+
+alpha1/beta1 with R2
+model 17 = 65.693
+model 22 = 66.536
+model 84 = 47.841
+all 3 combined = 60.02333333333333
+
+a1/b3 with R2
+model 16 = 59.656
+model 38 = 64.769
+model 65 = 54.787
+all 3 combined = 59.73733333333333
+
+no CTTs
+model 17 = 49.586
+model 22 = 59.737
+model 84 = 55.844
+all 3 combined = 55.05566666666667
