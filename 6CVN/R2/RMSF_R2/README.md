@@ -1,4 +1,5 @@
 
+
 RMSF sur les carbones alpha de Tau
 
 Semble indiquer que les CTT augmentent la mobilité des résidus du côté C-terminal de Tau
@@ -10,3 +11,4 @@ Attention : valeurs moyennes sur les 3 trajectoires de chaque : chaque trajectoi
 RMSF_Tau.jpg : valeur max de 18A car c'est 17A est le max dans toutes les trajectoires individuelles
 
 RMSF_Tau_restricted.jpg : valeur de y ajustée au plot pour mieux voir les différences
+
