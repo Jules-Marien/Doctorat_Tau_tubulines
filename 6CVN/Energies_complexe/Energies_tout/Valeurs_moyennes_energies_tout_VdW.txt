@@ -1,0 +1,19 @@
+Mean values of the Van der Waals energy between R2 and tubulins
+
+alpha1/beta1 with R2
+model 17 : mean = -81.5387007 ; standard deviation = 10.280342406474578 ; standard error = 0.22993293494944778
+model 22 : mean = -80.76433995 ; standard deviation = 14.178697051841858 ; standard error = 0.31712459546443056
+model 84 : mean = -55.9836085 ; standard deviation = 14.052275305912481 ; standard error = 0.31429701230293317
+all 3 combined : mean = -72.76221638333334 ; standard deviation = 17.576211882304445 ; standard error = 0.22692683105585412
+
+a1/b3 with R2
+model 16 : mean = -70.84519175 ; standard deviation = 14.453903044934851 ; standard error = 0.32327992757357277
+model 38 : mean = -77.09423439999999 ; standard deviation = 11.947854144287444 ; standard error = 0.267228956110814
+model 65 : mean = -63.33321370000001 ; standard deviation = 18.0779587618216 ; standard error = 0.4043365436332954
+all 3 combined : mean = -70.42421328333333 ; standard deviation = 16.056440084243203 ; standard error = 0.20730502629089717
+
+no CTTs
+model 17 : mean = -60.26090945 ; standard deviation = 8.928428573900657 ; standard error = 0.1996956623925819
+model 22 : mean = -72.0464822 ; standard deviation = 10.15744165173166 ; standard error = 0.22718410323468463
+model 84 : mean = -61.3775395 ; standard deviation = 11.608765136786072 ; standard error = 0.25964479912254274
+all 3 combined : mean = -64.56164371666667 ; standard deviation = 11.580321350251923 ; standard error = 0.14951376577718936

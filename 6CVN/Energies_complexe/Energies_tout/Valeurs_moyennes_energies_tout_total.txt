@@ -1,0 +1,19 @@
+Mean values of the total energy between R2 and tubulins
+
+alpha1/beta1 with R2
+model 17 : mean = -1311.5714065 ; standard deviation = 159.00707337961182 ; standard error = 3.5563954598312018
+model 22 : mean = -1653.14531 ; standard deviation = 257.2899208090047 ; standard error = 5.754616362512082
+model 84 : mean = -1467.5566794999997 ; standard deviation = 196.92219477716012 ; standard error = 4.404415379519121
+all 3 combined : mean = -1477.4244653333333 ; standard deviation = 250.82671913926245 ; standard error = 3.2384289003545406
+
+a1/b3 with R2
+model 16 : mean = -1608.753375 ; standard deviation = 236.97493006066986 ; standard error = 5.300245752901488
+model 38 : mean = -1854.553915 ; standard deviation = 161.701451415016 ; standard error = 3.6166586519553885
+model 65 : mean = -1625.28704 ; standard deviation = 162.61580500811846 ; standard error = 3.6371093331614164
+all 3 combined : mean = -1696.19811 ; standard deviation = 220.9825780541562 ; standard error = 2.8531105844752576
+
+no CTTs
+model 17 : mean = -1085.9085504999998 ; standard deviation = 166.3635168786668 ; standard error = 3.7209316763936178
+model 22 : mean = -1259.4646120000002 ; standard deviation = 152.9609529775637 ; standard error = 3.421166286119526
+model 84 : mean = -1366.1141415 ; standard deviation = 133.62581544502723 ; standard error = 2.9887113400948317
+all 3 combined : mean = -1237.1624346666665 ; standard deviation = 190.55480289751483 ; standard error = 2.4602569571627404

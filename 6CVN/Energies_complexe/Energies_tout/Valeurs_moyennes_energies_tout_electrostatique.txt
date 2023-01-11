@@ -1,0 +1,19 @@
+Mean values of the electrostatic energy between R2 and tubulins
+
+alpha1/beta1 with R2
+model 17 : mean = -1230.03277 ; standard deviation = 155.99220388876202 ; standard error = 3.488964068627339
+model 22 : mean = -1572.3808355 ; standard deviation = 251.50035128024462 ; standard error = 5.625125275425013
+model 84 : mean = -1411.5732095 ; standard deviation = 192.89693031188082 ; standard error = 4.314385219447169
+all 3 combined : mean = -1404.6622716666668 ; standard deviation = 247.29736530494793 ; standard error = 3.192861340822434
+
+a1/b3 with R2
+model 16 : mean = -1537.908145 ; standard deviation = 230.88189998137352 ; standard error = 5.163967384587069
+model 38 : mean = -1777.45974 ; standard deviation = 160.58096097026072 ; standard error = 3.591597457847386
+model 65 : mean = -1561.9537849999997 ; standard deviation = 165.4524122638403 ; standard error = 3.7005536627195696
+all 3 combined : mean = -1625.77389 ; standard deviation = 217.00168165700444 ; standard error = 2.8017131496800602
+
+no CTTs
+model 17 : mean = -1025.6476145 ; standard deviation = 165.32576006980548 ; standard error = 3.6977209252930536
+model 22 : mean = -1187.41822 ; standard deviation = 148.52693268065426 ; standard error = 3.321993781918526
+model 84 : mean = -1304.7366370000002 ; standard deviation = 132.18513142377714 ; standard error = 2.956488609348803
+all 3 combined : mean = -1172.6008238333334 ; standard deviation = 188.0961099433358 ; standard error = 2.428512722149681
